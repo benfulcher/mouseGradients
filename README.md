@@ -1,6 +1,6 @@
 # mouseGradients
 
-This repository contains code to reproduce plotted results in our paper:
+This repository contains code to reproduce all figures from our paper:
 
 Fulcher, B. D., Murray, J. D., Zerbi, V., & Wang, X.-J. (2019).
 [Multimodal gradients across mouse cortex](http://doi.org/10.1073/pnas.1814144116).
